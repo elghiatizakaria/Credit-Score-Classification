@@ -9,4 +9,4 @@ Il existe trois classifications de cotes de crédit que les banques et les soci�
 - **Standard**
 - **Mauvais**
 
-Une personne ayant une bonne cote de crédit pourra obtenir des prêts auprès de n'importe quelle banque ou institution financière. Pour la tâche de classification des cotes de crédit, nous avons besoin d'un ensemble de données étiquetées avec des cotes de crédit.
+Une personne ayant une bonne cote de crédit pourra obtenir des prêts auprès de n'importe quelle banque ou institution financière. Pour la tâche de classification des cotes de crédit, nous avons besoin d'une **Dataset** qui est **dataset.csv** dans mon repository ,cette dataset étiquetées avec des cotes de crédit.
