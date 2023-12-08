@@ -1,4 +1,2 @@
 # Credit-Score-Classification
-Les banques et les sociétés de cartes de crédit calculent votre cote de crédit pour déterminer votre solvabilité. 
-Cela aide les banques et les sociétés de cartes de crédit à accorder immédiatement des prêts aux clients ayant une bonne solvabilité.
-Aujourd'hui, les banques et les sociétés de cartes de crédit utilisent des algorithmes d'apprentissage automatique pour classer tous les clients de leur base de données en fonction de leur historique de crédit.
+Les banques et les sociétés émettrices de cartes de crédit évaluent les cotes de crédit afin de déterminer votre capacité de remboursement. Cette évaluation permet aux institutions financières d'approuver rapidement des prêts pour les clients présentant une solvabilité élevée. Actuellement, les banques et les sociétés de cartes de crédit recourent à des algorithmes de Machine learning pour classer l'ensemble de leurs clients en fonction de leur historique de crédit.
